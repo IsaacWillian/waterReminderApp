@@ -29,10 +29,10 @@
 
 ## Screens
 ### Dark Mode
-<img src="images/Today.png" width="200" alt="Today Screen in Dark Mode"/> <img src="images/Reminders.png" width="200" alt="Reminders Screen in Dark Mode"/><img src="images/New_reminder.png" width="200" alt="New reminder Screen in Dark Mode"/><img src="images/History.png" width="200" alt="History Screen in Dark Mode"/>
+<img src="images/Today.png" width="200" alt="Today Screen in Dark Mode"/> <img src="images/Reminders.png" width="200" alt="Reminders Screen in Dark Mode"/> <img src="images/New_reminder.png" width="200" alt="New reminder Screen in Dark Mode"/> <img src="images/History.png" width="200" alt="History Screen in Dark Mode"/>
 
 ### Light Mode
-<img src="images/Today_Day.png" width="200" alt="Today Screen in Light Mode"/><img src="images/Reminders_Day.png" width="200" alt="Reminders Screen in Light Mode"/><img src="images/New_reminder_Day.png" width="200" alt="New reminder Screen in Light Mode"/><img src="images/History_day.png" width="200" alt="History Screen in Light Mode"/>
+<img src="images/Today_Day.png" width="200" alt="Today Screen in Light Mode"/> <img src="images/Reminders_Day.png" width="200" alt="Reminders Screen in Light Mode"/> <img src="images/New_reminder_Day.png" width="200" alt="New reminder Screen in Light Mode"/> <img src="images/History_day.png" width="200" alt="History Screen in Light Mode"/>
 
 ## Next steps
  - Tests
