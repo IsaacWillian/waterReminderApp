@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item>
+        <shape
+            android:shape="rectangle"
+            android:useLevel="true">
+
+            <corners android:radius="20dp"/>
+            <solid android:color="@color/Accent_10"/>
+
+        </shape>
+    </item>
+    <item>
+        <clip>
+        <shape
+            android:shape="rectangle"
+            android:useLevel="true">
+
+            <corners android:radius="20dp"/>
+            <solid android:color="@color/Accent"/>
+
+        </shape>
+        </clip>
+    </item>
+
+
+</layer-list>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/historyFragment"
+        android:title="@string/history_menu"
+        android:icon="@drawable/ic_history_24"/>
+
+    <item android:id="@+id/todayFragment"
+        android:title="@string/today_menu"
+        android:icon="@drawable/ic_water_icon"/>
+
+    <item android:id="@+id/reminderList"
+        android:title="@string/reminders_menu"
+        android:icon="@drawable/ic_reminder_24"/>
+
+</menu>

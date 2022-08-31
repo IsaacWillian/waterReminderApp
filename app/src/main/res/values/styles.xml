@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="btn_white_stroke" parent="@style/Theme.WaterReminder">
+        <item name="android:background">@color/transparent</item>
+        <item name="backgroundTint">@null</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:layout_marginEnd">32dp</item>
+        <item name="android:layout_marginStart">32dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+    </style>
+
+    <style name="btn_dialog" parent="@style/Theme.WaterReminder">
+        <item name="android:background">@color/transparent</item>
+        <item name="backgroundTint">@null</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+    <style name="btn_init_welcome" parent="@style/Theme.WaterReminder">
+        <item name="android:background">@drawable/btn_bg</item>
+        <item name="backgroundTint">@null</item>
+        <item name="elevation">14dp</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:layout_marginEnd">32dp</item>
+        <item name="android:layout_marginStart">32dp</item>
+        <item name="android:layout_marginBottom">12dp</item>
+    </style>
+    <style name="btn_history_day" parent="@style/Theme.WaterReminder">
+        <item name="android:background">@drawable/btn_next_month</item>
+        <item name="android:layout_width">25dp</item>
+        <item name="android:layout_height">25dp</item>
+        <item name="backgroundTint">@null</item>
+        <item name="elevation">14dp</item>
+    </style>
+
+    <style name="small_btn" parent="@style/Theme.WaterReminder">
+        <item name="android:background">@color/transparent</item>
+        <item name="backgroundTint">@null</item>
+        <item name="android:textSize">8sp</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="alertDialog" parent="@style/Theme.AppCompat.DayNight.Dialog.Alert">
+        <item name="android:background">?attr/colorPrimary</item>
+        <item name="backgroundTint">@null</item>
+        <item name="android:textColorPrimary">?attr/colorSecondary</item>
+        <item name="android:buttonBarPositiveButtonStyle">@style/btn_dialog</item>
+        <item name="android:buttonBarNegativeButtonStyle">@style/btn_dialog</item>
+    </style>
+
+
+
+    <style name="textInWhiteBackground">
+        <item name="android:textColor">@color/bluePrimary</item>
+    </style>
+
+    <style name="MyTimePickerWidgetStyle" parent="@android:style/Widget.Material.TimePicker">
+        <item name="android:headerBackground">?attr/colorPrimary</item>
+        <item name="android:numbersTextColor">?attr/colorSecondary</item>
+        <item name="android:numbersInnerTextColor">?attr/colorSecondary</item>
+        <item name="android:numbersSelectorColor">@color/Accent</item>
+        <item name="android:numbersBackgroundColor">@color/transparent</item>
+        <item name="android:amPmTextColor">?attr/colorSecondary</item>
+    </style>
+
+</resources>

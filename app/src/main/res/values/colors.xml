@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="bg">#010713</color>
+    <color name="white">#FFFFFF</color>
+    <color name="SecondaryNight">#07182C</color>
+    <color name="PrimaryNightVariant">#4D122842</color>
+    <color name="PrimaryNight">#0D233E</color>
+    <color name="Accent">#4390ec</color>
+    <color name="Accent_10">#1A4390EC</color>
+    <color name="SecondaryDay">#FBFDFF</color>
+    <color name="PrimaryDayVariant">#4DF5FAFF</color>
+    <color name="PrimaryDay">#F6FAFF</color>
+    <color name="white20">#33FFFFFF</color>
+    <color name="start_accent">#60A8FF</color>
+    <color name="endGradientButton">#7BC2FB</color>
+    <color name="bluePrimary">#102B53</color>
+    <color name="bluePrimary40">#4D102B53</color>
+    <color name="redTrash">#DDFB1C1C</color>
+    <color name="blueSecondary">#4188FF</color>
+    <color name="blueTerciary">#298FFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="icon">@color/icon_color</color>
+
+</resources>

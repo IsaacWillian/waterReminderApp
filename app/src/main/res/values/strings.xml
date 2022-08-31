@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">WaterReminder</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="channel_name">reminderChannel</string>
+    <string name="channel_description">Canal de notificações no app de agua</string>
+    <string name="history_menu">Histórico</string>
+    <string name="today_menu">Hoje</string>
+    <string name="reminders_menu">Lembretes</string>
+    <string name="reminderTitle">Lembretes</string>
+    <string name="historyTitle">Histórico</string>
+    <string name="new_reminder">Novo lembrete</string>
+    <string name="add_new_reminder">Adicionar</string>
+    <string name="back">Voltar</string>
+    <string name="new_reminder_title">Em qual horário gostaria de ser lembrado?</string>
+    <string name="drink_title">Beber</string>
+    <string name="welcome_title">Bem vindo ao</string>
+    <string name="name_question">Como prefere ser chamado?</string>
+    <string name="hint_name">Nome</string>
+    <string name="daily_goal_question">Qual sua meta diária?</string>
+    <string name="begin_welcome">Iniciar</string>
+    <string name="update_welcome">Atualizar</string>
+    <string name="greeting">Olá, %1$s!</string>
+    <string name="greeting_without_name">Olá!</string>
+    <string name="water_with_ml">%1$d ml</string>
+
+
+    <string name="january">Janeiro</string>
+    <string name="february">Fevereiro</string>
+    <string name="march">Março</string>
+    <string name="april">Abril</string>
+    <string name="may">Maio</string>
+    <string name="june">Junho</string>
+    <string name="july">Julho</string>
+    <string name="august">Agosto</string>
+    <string name="september">Setembro</string>
+    <string name="october">Outubro</string>
+    <string name="november">Novembro</string>
+    <string name="december">Dezembro</string>
+    <string name="goal_of_day">Meta\ndo dia</string>
+    <string name="day_title">Dia</string>
+    <string name="remove_drink">Remover\nbebida</string>
+    <string name="label_remove_button">Remover</string>
+    <string name="reminders_marked">Lembretes\nmarcados</string>
+</resources>

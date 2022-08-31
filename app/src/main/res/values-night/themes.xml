@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.WaterReminder" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/PrimaryNight</item>
+        <item name="colorPrimaryVariant">@color/SecondaryNight</item>
+        <item name="colorSecondary">@color/PrimaryDay</item>
+        <item name="colorSecondaryVariant">@color/PrimaryDayVariant</item>
+        <item name="android:windowBackground">@color/PrimaryNight</item>
+        <!-- Secondary brand color. -->
+        <item name="android:textColor">@color/PrimaryDay</item>
+        <item name="android:numbersTextColor">@color/PrimaryDay</item>
+        <item name="android:numbersInnerTextColor">@color/PrimaryDay</item>
+        <item name="fontFamily">sans-serif-light</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimary</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
